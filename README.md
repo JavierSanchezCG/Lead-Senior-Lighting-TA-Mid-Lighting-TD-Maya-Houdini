@@ -14,8 +14,8 @@ This repository contains scripts and tools for pipelines of lighting, and automa
 # Featured Projects
 
 | Tool | Company | Project | 	Brief Description | 
-|-----------|-----------|-----------|
-| Name    | Red Animation    | Kay    |  .....
+|-----------|-----------|-----------| -----------|
+| Name    | Red Animation    | Kay  |  .....     | 
 
 
 
