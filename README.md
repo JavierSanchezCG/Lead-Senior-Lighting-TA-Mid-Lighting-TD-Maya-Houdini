@@ -12,9 +12,12 @@ This repository contains scripts and tools for pipelines of lighting, and automa
 /learning      → Course exercises and projects
 ```
 # Featured Projects
-# Tool	Company / Project	Brief Description
-[Nombre]	[Estudio / Proyecto]	[Qué hace]
-[Nombre]	[Estudio / Proyecto]	[Qué hace]
+
+| Tool | Company | Project | 	Brief Description | 
+|-----------|-----------|-----------|
+| Name    | Red Animation    | Kay    |  .....
+
+
 
 # Contact
 GitHub: github.com/JavierSanchezCG
